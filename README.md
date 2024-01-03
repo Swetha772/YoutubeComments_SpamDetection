@@ -48,6 +48,9 @@ https://www.kaggle.com/datasets/fatihblg/youtube-spam-collection/code?datasetId=
    1 - non spam
 -> Finally write to bigquery using pandas_gbq
 
+![image](https://github.com/Swetha772/YoutubeComments_SpamDetection/assets/66777487/ba9cb796-65cf-4624-bc3a-1be6e578462d)
+
+
 **Data Visualization**
 -> Power BI dashboard is built by integrating power BI with Bigquery.
 -> Below is the link for the final dashboard:
