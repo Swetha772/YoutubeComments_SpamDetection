@@ -1,7 +1,7 @@
 **Youtube Comments Spam Detection using Python**
 
 **Overview**
-Many people have been using youtube as a platform to share their content online and people are posting comments under videos to express their opinions. However thera are so many comments that contain hyperlinks, unwanted advertisements which are classified as spam comments. In this project I am using naive bayes classification to detect spam comments by fetching the popular videos of different video categories using youtube Data API.
+Many people have been using youtube as a platform to share their content online and people are posting comments under videos to express their opinions. However there are so many comments that contain hyperlinks, unwanted advertisements which are classified as spam comments. In this project I am using naive bayes classification to detect spam comments by fetching the popular videos of different video categories using youtube Data API.
 
 **For Data Processing and Data storage I am using**
  Cloud Bigquery, Dataflow, Apache Beam SDK, Python
